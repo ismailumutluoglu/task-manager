@@ -258,16 +258,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Express.js community for excellent documentation
 - CSS-Tricks for glassmorphism inspiration
 
-## 📸 Screenshots
-
-### Main Page
-
-![Main Page](https://via.placeholder.com/800x600/667eea/ffffff?text=Task+Manager+Main+Page)
-
-### Edit Task
-
-![Edit Task](https://via.placeholder.com/800x600/764ba2/ffffff?text=Edit+Task+Page)
-
 ## 🔮 Future Enhancements
 
 - [ ] User authentication and authorization
