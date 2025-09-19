@@ -249,7 +249,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Your Name**
 
 - GitHub: [@ismailumutluoglu](https://github.com/ismailumutluoglu)
-- LinkedIn: [İsmail Umutluoğlu]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ismail-umutluoglu-a82955262))
+- LinkedIn: [İsmail Umutluoğlu](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ismail-umutluoglu-a82955262))
 
 ## 🙏 Acknowledgments
 
